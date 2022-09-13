@@ -1,3 +1,4 @@
 *.class
 test-data/
 lib/
+*.zip
