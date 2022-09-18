@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-import edu.princeton.cs.algs4.In;
 
 public class ClosestNumbers {
     /*
